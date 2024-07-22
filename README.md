@@ -1,6 +1,6 @@
 # VideoConversion
 
-A simple Angular application for recording and converting videos to MP4 format.
+A simple Angular application for reproducing videos with different tracks.
 
 In order to run the app you should run build and start the server. 
 
